@@ -1,0 +1,10 @@
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <encoding>utf-8</encoding>
+        <protocol>https</protocol>
+        <reportName>Relatório de Testes - Amazon</reportName>
+        <documentTitle>Automação Amazon</documentTitle>
+        <timeStampFormat>dd/MM/yyyy HH:mm:ss</timeStampFormat>
+    </configuration>
+</extentreports>
